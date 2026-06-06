@@ -84,5 +84,3 @@ Based on the SQL analysis:
 - Invest in production houses with a proven track record.
 - Target international markets with content backed by audience preferences.
 - Use historical ratings and trends to maximize movie success probability.
-
-## Project Structure
